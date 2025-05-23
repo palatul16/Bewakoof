@@ -104,6 +104,6 @@ Make sure you have:
 ### ⚙️ Installation
 
 ```bash
-git clone https://github.com/yourusername/bewakoof-testing-project.git
+git clone https://github.com/palatul16/Bewakoof.git
 cd bewakoof-testing-project
 npm install
