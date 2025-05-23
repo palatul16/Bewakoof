@@ -21,7 +21,7 @@ The project demonstrates professional-quality **end-to-end test coverage** using
 Software Development Engineer in Testing (SDET)  
 Email: `atulpaldelhi@gmail.com`  
 LinkedIn: [linkedin.com/in/atulpal](https://www.linkedin.com/in/atul-pal-451b13251/)  
-GitHub: [github.com/yourusername](https://github.com/palatul16)
+GitHub: [github.com/palatul16](https://github.com/palatul16)
 
 ---
 
@@ -66,26 +66,26 @@ All bugs and observations were documented during manual testing and fixed before
 - ✅ Navigation Links
 
 ### 🔹 Folder Structure
-cypress/
-│
-├── e2e/
-│ ├── Bewakoof.cy.js
-│
-└── support/
-| ├── pages/
-│ │ ├── add_to_bag.js
-│ │ ├── Login.js
-│ │ ├── coupan.js
-│ │ ├── order.js
-│ │ ├── search_functionality.js
-│ │ ├── signUp.js
-│ │ ├── verifying_product.js
-│ │ ├── wishlis.js
-│
-├── fixtures/
-│ └── testData.json
-│
-└── commands.js
+<pre> ```cypress/ </br>
+│ </br>
+├── e2e/ </br>
+│ ├── Bewakoof.cy.js </br>
+│ </br>
+└── support/ </br>
+| ├── pages/ </br>
+│ │ ├── add_to_bag.js </br>
+│ │ ├── Login.js </br>
+│ │ ├── coupan.js </br>
+│ │ ├── order.js </br>
+│ │ ├── search_functionality.js </br>
+│ │ ├── signUp.js </br>
+│ │ ├── verifying_product.js </br>
+│ │ ├── wishlis.js </br>
+│ </br>
+├── fixtures/ </br>
+│ └── testData.json </br>
+│ </br>
+└── commands.js </br> ``` </pre>
 
 ### 🔹 Why POM?
 - Code reusability
